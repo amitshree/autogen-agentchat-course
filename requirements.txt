@@ -1,2 +1,5 @@
+python-dotenv
+autogen-core
 autogen-agentchat
 autogen-ext[openai]
+ipykernel

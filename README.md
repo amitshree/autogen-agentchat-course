@@ -32,22 +32,8 @@ To get the most out of this course, you should have:
 - An interest in AI workflows and automation.
 
 
-## 🚨 Installation
 
-Ensure you have Python 3.10+ installed. Then, set up your environment:
 
-```bash
-# Clone the repository
-git clone https://github.com/amitshree/autogen-agentchat-course.git
-cd autogen-agentchat-course
-
-# Create a virtual environment
-python -m venv .venv
-source .venv/bin/activate  # On Windows use `.venv\Scripts\activate`
-
-# Install dependencies
-pip install -r requirements.txt
-```
 ## 📦 Course Content
 
 TBD
