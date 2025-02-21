@@ -29,7 +29,7 @@ To get the most out of this course, you should have:
 
 - Basic knowledge of **Python programming**.
 - Familiarity with **LLMs (Large Language Models)** like GPT.
-- An interest in AI workflows and automation.
+- An interest in AI workflows and Agents.
 
 
 
