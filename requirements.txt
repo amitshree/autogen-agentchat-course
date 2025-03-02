@@ -4,3 +4,5 @@ autogen-agentchat
 autogen-ext[openai]
 ipykernel
 Pillow
+streamlit
+pylint
