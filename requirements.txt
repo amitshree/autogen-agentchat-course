@@ -6,3 +6,5 @@ ipykernel
 Pillow
 streamlit
 pylint
+fastapi
+uvicorn
