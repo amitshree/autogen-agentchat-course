@@ -1,7 +1,7 @@
 python-dotenv
 autogen-core
 autogen-agentchat
-autogen-ext[openai]
+autogen-ext[openai,ollama]
 ipykernel
 Pillow
 streamlit
