@@ -15,10 +15,17 @@ PRODUCT_CATALOG = {
 }
 
 # Sample order database
-ORDERS_DB = {}
+ORDERS_DB = {
+    "ORD-1": {"product": "Dell XPS 15", "quantity": 1, "customer_id": "CUST-001", "status": "Shipped"},
+    "ORD-2": {"product": "Apple iPhone 15 Pro", "quantity": 2, "customer_id": "CUST-002", "status": "Processing"},
+}
 
 # Sample complaint database
-COMPLAINTS_DB = {}
+COMPLAINTS_DB = {
+    "CMP-1": {"order_id": "ORD-1", "customer_id": "CUST-001", "complaint": "Received a defective product.", "status": "Resolved"},
+    "CMP-2": {"order_id": "ORD-2", "customer_id": "CUST-002", "complaint": "Order delayed.", "status": "Pending"},
+}
+
 
 # Function to find the closest matching product based on substring search
 def find_closest_product(product_name: str) -> str:
