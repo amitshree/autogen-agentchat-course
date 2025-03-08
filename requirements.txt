@@ -5,6 +5,5 @@ autogen-ext[openai,ollama]
 ipykernel
 Pillow
 streamlit
-pylint
 fastapi
 uvicorn
