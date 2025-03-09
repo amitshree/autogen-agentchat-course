@@ -7,3 +7,4 @@ Pillow
 streamlit
 fastapi
 uvicorn
+pytest-playwright
