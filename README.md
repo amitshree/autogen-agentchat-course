@@ -1,6 +1,6 @@
-# Mastering AutoGen Agent Chat: Building Intelligent Multi-Agent Systems
+# Build intelligent multi-agent applications with AutoGen
 
-Welcome to **Mastering AutoGen Agent Chat**! This course is designed to take you from the fundamentals of AutoGen agents to building sophisticated, multi-agent systems capable of solving complex tasks through collaborative AI communication.
+Welcome to **Build intelligent multi-agent applications with AutoGen** course! This course is designed to take you from the fundamentals of AutoGen agents to building sophisticated, multi-agent systems capable of solving complex tasks through collaborative AI communication.
 
 ## 🚀 Course Overview
 
