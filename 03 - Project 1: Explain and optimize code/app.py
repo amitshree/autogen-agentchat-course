@@ -1,7 +1,5 @@
 import streamlit as st
-import tempfile
 import asyncio
-import subprocess
 from agent import get_code_explanation, get_code_optimization
 
 # Streamlit UI
