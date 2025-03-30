@@ -2,7 +2,6 @@ from autogen_agentchat.agents import AssistantAgent
 from autogen_agentchat.messages import TextMessage
 from autogen_ext.models.openai import OpenAIChatCompletionClient
 from autogen_core import CancellationToken
-import asyncio
 
 # Initialize OpenAI client
 model_client = OpenAIChatCompletionClient(model="gpt-4o-mini")
