@@ -185,7 +185,13 @@ team = SelectorGroupChat(
 async def main(query):
     #await Console(team.run_stream(task=query))
     response = await team.run(task=query)
-    return response.messages[-1].content
+    result = response.messages[-1].content
+
+    # Remove 'TERMINATE' if it's at the end
+    if result.endswith("TERMINATE"):
+        result = result.removesuffix("TERMINATE").strip()
+
+    return result
 
 if __name__ == "__main__":
     print(asyncio.run(main("I want to buy Samsung Galaxy Tab of 3 quantity as a guest.")))
