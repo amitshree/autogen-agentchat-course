@@ -1,4 +1,4 @@
-from autogen_agentchat.agents import AssistantAgent, UserProxyAgent
+from autogen_agentchat.agents import AssistantAgent
 from autogen_agentchat.conditions import MaxMessageTermination, TextMentionTermination
 from autogen_agentchat.teams import SelectorGroupChat
 from autogen_agentchat.ui import Console
