@@ -1,39 +1,45 @@
-# Build intelligent multi-agent applications with AutoGen
+# Build Intelligent Multi-Agent Applications with AutoGen 0.4
 
-Welcome to **Build intelligent multi-agent applications with AutoGen** course! This course is designed to take you from the fundamentals of AutoGen agents to building sophisticated, multi-agent systems capable of solving complex tasks through collaborative AI communication.
+## Course Overview
+The future of AI lies in multi-agent collaboration, where intelligent agents work together to solve complex tasks. This course will help you master the AutoGen framework to build and deploy scalable AI agent applications.
 
-## 🚀 Course Overview
+## Learning Goals
+- Design, develop, and deploy intelligent multi-agent systems using AutoGen 0.4 AgentChat framework.
 
-AutoGen is a powerful framework for creating and managing AI agents that can interact with each other, solve problems autonomously, and even integrate with external tools and APIs. In this course, you'll learn how to:
+## Course Content
 
-- **Understand AutoGen Fundamentals:** Learn the core concepts of AI agents, their architecture, and how AutoGen orchestrates multi-agent interactions.
-- **Build Single and Multi-Agent Systems:** Create both simple and advanced agent workflows.
-- **Implement Task Decomposition:** Design agents that break down complex tasks into smaller, manageable steps.
-- **Enable Collaborative AI:** Set up agents that negotiate, share information, and dynamically adapt strategies.
-- **Integrate APIs and Tools:** Extend agent capabilities by connecting them with external data sources and services.
-- **Optimize Agent Communication:** Fine-tune agent prompts and responses for efficiency and accuracy.
+### Getting Started
+- **Introduction**: Course objectives, target audience, and prerequisites.
+- **Setup**: Install Python, VS Code, and dependencies.
+- **Project Setup**: Clone the repository and create a virtual environment.
 
-## 📚 What You'll Learn
+### Multi-Agent Systems & AutoGen
+- **AI Agents & Use Cases**: Understanding agents and their applications.
+- **AutoGen Overview**: Core components, focusing on AgentChat.
 
-By the end of this course, you will be able to:
+### Working with Models
+- **Choosing LLMs**: OpenAI, Azure OpenAI, and LLaMA 3.2 setup.
+- **API Integration**: Implementing API keys and testing models.
 
-1. **Create AutoGen agents** that can autonomously chat, solve problems, and work together.
-2. **Design complex multi-agent workflows** for real-world scenarios like research, code generation, and data analysis.
-3. **Implement dynamic agent roles** — managers, workers, critics — to streamline processes.
-4. **Incorporate APIs and databases** to enhance agent functionality.
-5. **Debug and optimize agent interactions** for better results.
+### Key AutoGen Concepts
+- **Agent Communication**: Messages, user proxy agents, and assistant agents.
+- **Function Calling & Tool Usage**: reflect_on_tool_use, HandOff, and streaming responses.
+- **Multi-Modal AI**: Combining text and images.
 
-## 🛠️ Prerequisites
+### Hands-On Projects
+- **Project 1: AI-Powered Streamlit App**: Build and optimize an AI agent app.
+- **Project 2: Multi-Agent AI Chatbot**: Develop a chatbot for customer support.
 
-To get the most out of this course, you should have:
+### Advanced Topics
+- **Agent Teams**: Organizing agents, termination conditions, and LLM-based selection.
+- **Managing Agent States**: Workflow optimization.
+- **Magentic-One**: A generalist multi-agent system for web and file-based tasks.
 
-- Basic knowledge of **Python programming**.
-- Familiarity with **LLMs (Large Language Models)** like GPT.
-- An interest in AI workflows and Agents.
+## Who Should Enroll?
+- AI & ML practitioners, developers, and researchers exploring AI automation.
+- Anyone interested in building AI-powered applications.
 
+By the end of this course, you'll have hands-on experience with multi-agent AI applications using AutoGen.
 
+For more details, visit the [AutoGen Documentation](https://microsoft.github.io/autogen/stable/).
 
-
-## 📦 Course Content
-
-TBD
