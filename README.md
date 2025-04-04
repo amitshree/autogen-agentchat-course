@@ -3,6 +3,9 @@
 ## Course Overview
 The future of AI lies in multi-agent collaboration, where intelligent agents work together to solve complex tasks. This course will help you master the AutoGen framework to build and deploy scalable AI agent applications.
 
+## Course Link
+https://www.udemy.com/course/build-intelligent-multi-agent-applications-with-autogen/?referralCode=3D7FD9391F8FC7C24BE0
+
 ## Learning Goals
 - Design, develop, and deploy intelligent multi-agent systems using AutoGen 0.4 AgentChat framework.
 
